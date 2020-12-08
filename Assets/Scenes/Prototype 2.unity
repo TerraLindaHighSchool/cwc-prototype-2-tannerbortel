@@ -152,8 +152,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animalPrefabs:
   - {fileID: 1145915562543113188, guid: 461a4e2d8d83ff5438dd8f78c8567894, type: 3}
-  - {fileID: 165520, guid: 06aceaf909fec8f4081af49b1eea892e, type: 3}
-  - {fileID: 6639508866636928729, guid: fcd27da45cc90a94ca3a5e80e52c8719, type: 3}
+  - {fileID: 6639508866636928729, guid: dc7526535200c1f4989ac5651e97a782, type: 3}
+  - {fileID: 165520, guid: 755721619b4ac4840b5065641f9a589e, type: 3}
 --- !u!4 &129745939
 Transform:
   m_ObjectHideFlags: 0
